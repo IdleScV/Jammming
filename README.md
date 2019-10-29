@@ -46,7 +46,7 @@ npm start
 
 ## Built With
 
-* [React](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [React](https://reactjs.org/) - The web framework used
 
 ## Authors
 
