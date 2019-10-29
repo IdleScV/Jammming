@@ -1,5 +1,0 @@
-Bugs to Fix
- - More than one audio preview is allowed to be played at a time
- - Searchbar doesn't save information before spotify login
-	Possible solutions-
-		Don't show searchbar until Search is pressed once
